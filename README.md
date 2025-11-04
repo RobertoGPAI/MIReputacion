@@ -158,6 +158,4 @@ f. Análisis de Campañas y Colaboraciones: Buscar información pública (artíc
 
 ## Licencia
 Este proyecto se distribuye bajo la Licencia MIT. Eres libre de usar, modificar y distribuir este prompt para cualquier propósito.
----
 
-Este es el prompt completo que define el flujo. Puedes copiarlo directamente para iniciar la interacción
