@@ -2,7 +2,6 @@
 Un analizador de reputación online
 # Analista de Reputación Interactivo (IA)
 
-![Licencia](https://img.shields.io/badge/License-MIT-green.svg)
 ![Compatible](https://img.shields.io/badge/LLM-Agnostic-blue.svg)
 ![Framework](https://img.shields.io/badge/Framework-Kotler-purple.svg)
 
@@ -157,5 +156,15 @@ e. Informe de Tendencias del Sector: Analizar las tendencias emergentes, riesgos
 f. Análisis de Campañas y Colaboraciones: Buscar información pública (artículos, comunicados de prensa) sobre campañas o colaboraciones con influencers que mi [EMPRESA] o mis [COMPETIDORES] hayan realizado. Analizar la recepción pública de dichas campañas.
 
 ## Licencia
-Este proyecto se distribuye bajo la Licencia MIT. Eres libre de usar, modificar y distribuir este prompt para cualquier propósito.
+
+Este proyecto se distribuye bajo la **Licencia Creative Commons Atribución 4.0 Internacional**.
+
+[![CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+Eres libre de:
+* **Compartir:** copiar y redistribuir el material en cualquier medio o formato.
+* **Adaptar:** remezclar, transformar y construir sobre el material para cualquier propósito, incluso comercialmente.
+
+Bajo la siguiente condición:
+* **Atribución:** Debes dar el crédito apropiado, proporcionar un enlace a la licencia e indicar si se realizaron cambios.
 
