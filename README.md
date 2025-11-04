@@ -1,4 +1,4 @@
-# Prompt Maestro: Consultor de Estrategia e Innovación (IA)
+# MIReputacion: Consultor de Estrategia e Innovación (IA)
 
 ![Licencia](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)
 ![Compatible](https://img.shields.io/badge/LLM-Agnostic-blue.svg)
