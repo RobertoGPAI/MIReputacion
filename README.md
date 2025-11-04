@@ -23,7 +23,7 @@ Este "Prompt Maestro" resuelve ese problema utilizando un **flujo interactivo** 
 
 Solo después de tener toda esta información, la IA ejecuta el análisis final.
 
-## ⚙️ Características Principales
+## Características Principales
 
 * **Interactivo y Modular:** La conversación se construye paso a paso, asegurando que no falte ningún dato.
 * **LLM-Agnóstico:** Diseñado para funcionar con cualquier modelo de lenguaje avanzado (no depende de herramientas específicas).
@@ -66,7 +66,7 @@ Solo después de tener toda esta información, la IA ejecuta el análisis final.
 >
 > **Conclusión:** ..."
 
-.
+## El texto del PROMPT COMPLETO 
 
 ```text
 Rol: Eres un analista experto en reputación de marca y marketing digital.
@@ -141,8 +141,7 @@ Una vez que yo seleccione una instrucción del menú (p.ej., "opción b"), tu ac
 
 Utilizarás toda la información recopilada ([EMPRESA], [COMPETIDORES] y [FECHA]) para realizar el análisis solicitado. Presentarás un informe detallado basado en tu rol como analista y en el marco teórico de Kotler, utilizando la información pública que puedas consultar.
 ```
-
-Menú de Análisis (Capacidades)
+## Menú de Análisis (Capacidades)
 El corazón del prompt es el menú de acciones del Paso 4. Estas son las tareas que el analista de IA puede realizar:
 
 a. Análisis de Sentimiento y Posicionamiento: Medir el sentimiento general (positivo, negativo, neutro) hacia mi marca basándote en noticias y menciones web. Crear un resumen de cómo parece estar posicionada mi marca en la mente del consumidor y sugerir 2-3 estrategias de contenido o RR.PP. para mejorarla.
@@ -157,10 +156,8 @@ e. Informe de Tendencias del Sector: Analizar las tendencias emergentes, riesgos
 
 f. Análisis de Campañas y Colaboraciones: Buscar información pública (artículos, comunicados de prensa) sobre campañas o colaboraciones con influencers que mi [EMPRESA] o mis [COMPETIDORES] hayan realizado. Analizar la recepción pública de dichas campañas.
 
-Licencia
+## Licencia
 Este proyecto se distribuye bajo la Licencia MIT. Eres libre de usar, modificar y distribuir este prompt para cualquier propósito.
 ---
-
-## 📋 Prompt Maestro Completo
 
 Este es el prompt completo que define el flujo. Puedes copiarlo directamente para iniciar la interacción
