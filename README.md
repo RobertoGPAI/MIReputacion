@@ -1,6 +1,6 @@
 # MIReputacion
 Un analizador de reputación online
-# Prompt Maestro: Analista de Reputación Interactivo (IA)
+# Analista de Reputación Interactivo (IA)
 
 ![Licencia](https://img.shields.io/badge/License-MIT-green.svg)
 ![Compatible](https://img.shields.io/badge/LLM-Agnostic-blue.svg)
